@@ -1,0 +1,28 @@
+{
+  "google": {
+    "cookies": {"1P_JAR": "2022-06-07-13",
+                        "AEC": "AakniGNzdt860ExqgBSti8cfipICOX6MnYGim5zHFmFPSzmZsZD7rZEpoQ",
+                        "NID": "511=UvzpzWoxt9endDKaeHXtQahsnSDL53PU1xbDr8zMLgNA5tT2ynvQ_nOIzHYV88bKj5_kkEZcYgZHAkSjSM6s8c0V6d61KrsboSnuzKXm42kfYFMo048GNVjCnUYZHNe3WGFGSaJlWsgIb4Jn-vLdKb_EZj02o0IRFuTNmgc07vY",
+                        "ANID": "AHWqTUlaR80YF_G6r_x12IgEL-92-X2OhpTMIMsGncHALESQt3S_xK6B_cqC4ZaO"},
+    "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "DNT": "1",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1"},
+    "params" : {
+              "q": "hospitals in erode",
+              "um": "1",
+              "ie": "UTF-8",
+              "sa": "X",
+              "ved": "2ahUKEwiPw7--4fD6AhWucGwGHTsZBG0Q_AUoAXoECAIQAw"
+            },
+    "output_folder_name": "google_reviews_output",
+    "output_json_filename": "google_reviews"
+  }
+}
